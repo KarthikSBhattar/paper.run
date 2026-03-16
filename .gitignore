@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.DS_Store
+
+*.ll
+*_native
+*_native.exe
+
+.pytest_cache/
