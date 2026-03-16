@@ -69,4 +69,4 @@ Latest local result on M2 Mac Mini for `examples/bench_sum.py`:
 
 ## Notes
 
-This is still an experimental compiler. Semantics are intentionally narrow and incomplete, and many parts of Python are not implemented yet.
+This is a VERY experimental compiler. Many parts of Python are not implemented yet.
